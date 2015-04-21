@@ -1,0 +1,30 @@
+body{
+    background: #464646;
+    font-family: Century Gothic;
+}
+
+nav{
+    text-align: center;
+    width: 100%;
+    color: #d0ed45;
+}
+
+h1{
+    color: #d0ed45;
+    font-weight: normal;
+    font-size: 60px;
+}
+
+#menu_top{
+    background: #636363;
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    display: table;
+    vertical-align: middle;
+    text-align: right;
+}
+
+#menu_top h3{
+    margin-right: 50px;
+}
